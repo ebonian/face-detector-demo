@@ -1,4 +1,4 @@
-﻿# Quick Face Detection with OpenCV
+﻿# Simple Face Detection with OpenCV
 
 Face Detection with python-opencv from Haar Cascade trained-data.
 
